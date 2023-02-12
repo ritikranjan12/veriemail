@@ -1,0 +1,1 @@
+# Email verifier tool using golang
